@@ -1,0 +1,4 @@
+github.com/Shopify/go-lua v0.0.0-20240527182111-9ab1540f3f5f h1:XZtTrbBgkw5jgNeaulUVleb/IqTOKgR8x0+uTMzmOjs=
+github.com/Shopify/go-lua v0.0.0-20240527182111-9ab1540f3f5f/go.mod h1:M4CxjVc/1Nwka5atBv7G/sb7Ac2BDe3+FxbiT9iVNIQ=
+github.com/gomarkdown/markdown v0.0.0-20241105142532-d03b89096d81 h1:5lyLWsV+qCkoYqsKUDuycESh9DEIPVKN6iCFeL7ag50=
+github.com/gomarkdown/markdown v0.0.0-20241105142532-d03b89096d81/go.mod h1:JDGcbDT52eL4fju3sZ4TeHGsQwhG9nbDV21aMyhwPoA=
